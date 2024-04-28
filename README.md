@@ -1,6 +1,6 @@
-# Basic Calculator
+# Calculator
 
-This is a simple calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division, remainder, and Exponential.
+This is a simple calculator web application built using HTML, CSS, and JavaScript. It performs basic Calculations such as addition, subtraction, multiplication, division, remainder, and Exponential(a^b).
 
 ## Features
 
@@ -20,4 +20,4 @@ git clone https://github.com/code-with-alpha/Calculator-YT.git
 
 
 ## _**Desktop View**_
-![Calculator Screenshot](/preview.png)
+![Desktop view](/preview.png)
